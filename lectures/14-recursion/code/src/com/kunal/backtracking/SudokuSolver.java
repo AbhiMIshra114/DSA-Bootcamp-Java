@@ -47,7 +47,7 @@ public class SudokuSolver {
 
         if (emptyLeft == true) {
             return true;
-            // soduko is solved
+            // sudoku is solved
         }
 
         // backtrack
